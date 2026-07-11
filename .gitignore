@@ -1,0 +1,9 @@
+credential.txt
+alpha_db.json
+batch_submit_results.json
+*.pyc
+__pycache__/
+.DS_Store
+.env
+.venv/
+venv/
